@@ -9,7 +9,7 @@ for the tracks in this EP is humanity's conflicted relationship with nature. "Ha
 Memories" features a hypnotic and somber guitar amongst a backdrop of deep and
 contemplative sounds.
 
-![Hazy Memories cover](/images/hazy-memories-1024x1024.jpg)
+[![Hazy Memories cover](/images/hazy-memories-1024x1024.jpg)][1]
 
 _Hazy Memories_ is available for purchase on [Bandcamp][1] and can be streamed on all
 major streaming services.

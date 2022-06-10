@@ -1,8 +1,3 @@
-# Ephemerism
-
-Ephemerism's music is blend of ambient textures with hypnotic and dreamy guitar melodies.
-The project is based in Brussels, Belgium.
-
 ## Hazy Memories
 
 I am pleased to announce the release of Ephemerism's first EP, _Hazy Memories_. The EP was
